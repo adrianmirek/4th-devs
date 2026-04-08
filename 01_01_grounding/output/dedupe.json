@@ -1,0 +1,171 @@
+{
+  "sourceFile": "D:\\Repo\\AI\\ai-devs-4-builders\\4th-devs\\01_01_grounding\\notes\\crypto.md",
+  "model": "openai/gpt-5.4",
+  "sourceHash": "77f9f11488f95cf87bf90af42729684b52c9dd8e2bcf7e4fde758f6c46f722da",
+  "conceptsHash": "e232c7e0eed6aaa42174d68ea17a921135709da1d283dcb52e5779b3a266affe",
+  "paragraphCount": 13,
+  "conceptCount": 31,
+  "dedupeHash": "83479416e9d70843dfae61b1aad3675668cf4f72ce556e5de7d0c1e2ac39a014",
+  "groups": [
+    {
+      "canonical": "Bitcoin as a decentralized digital currency without intermediaries",
+      "ids": [
+        1
+      ],
+      "aliases": [],
+      "rationale": "No other definition entry states the same claim in a strict paraphrase."
+    },
+    {
+      "canonical": "Bitcoin: A Peer-to-Peer Electronic Cash System",
+      "ids": [
+        2
+      ],
+      "aliases": [],
+      "rationale": "This reference title has no strict paraphrase among other reference entries."
+    },
+    {
+      "canonical": "Bitcoin creation in 2008 by Satoshi Nakamoto",
+      "ids": [
+        3
+      ],
+      "aliases": [],
+      "rationale": "No other claim entry expresses the same historical claim."
+    },
+    {
+      "canonical": "Bitcoin vs Visa transaction throughput",
+      "ids": [
+        5
+      ],
+      "aliases": [],
+      "rationale": "This metric comparison is distinct from all other metric or claim entries."
+    },
+    {
+      "canonical": "Blocks linked by cryptographic hashes",
+      "ids": [
+        6
+      ],
+      "aliases": [],
+      "rationale": "No other claim entry states the same blockchain-linkage claim."
+    },
+    {
+      "canonical": "Bitcoin block reward halving schedule",
+      "ids": [
+        8
+      ],
+      "aliases": [],
+      "rationale": "This claim about issuance timing is not a strict paraphrase of any other claim."
+    },
+    {
+      "canonical": "Bitcoin miner block reward process",
+      "ids": [
+        9
+      ],
+      "aliases": [],
+      "rationale": "This method entry is distinct from claims about reward schedules or blockchain structure."
+    },
+    {
+      "canonical": "Ethereum smart contracts",
+      "ids": [
+        11
+      ],
+      "aliases": [],
+      "rationale": "This term entry is not a strict paraphrase of any other term entry."
+    },
+    {
+      "canonical": "Smart contracts are self-executing blockchain programs that enforce agreements",
+      "ids": [
+        12
+      ],
+      "aliases": [],
+      "rationale": "No other definition entry gives the same definition in equivalent wording."
+    },
+    {
+      "canonical": "Ethereum was proposed in 2013 and launched in 2015",
+      "ids": [
+        13
+      ],
+      "aliases": [],
+      "rationale": "This historical claim is unique among the claim entries."
+    },
+    {
+      "canonical": "Ethereum's transition from Proof of Work to Proof of Stake during The Merge",
+      "ids": [
+        16
+      ],
+      "aliases": [],
+      "rationale": "No other claim entry states this protocol-transition event."
+    },
+    {
+      "canonical": "The Merge reduced Ethereum's energy consumption by approximately 99.95%",
+      "ids": [
+        17
+      ],
+      "aliases": [],
+      "rationale": "This result is distinct from the claim describing the transition itself."
+    },
+    {
+      "canonical": "DeFi TVL peaked above $180 billion in late 2021 before falling",
+      "ids": [
+        19
+      ],
+      "aliases": [],
+      "rationale": "No other claim entry expresses this market-size trajectory."
+    },
+    {
+      "canonical": "Uniswap cumulative trading volume",
+      "ids": [
+        22
+      ],
+      "aliases": [],
+      "rationale": "This protocol-usage claim is distinct from Uniswap's launch date and AMM definition."
+    },
+    {
+      "canonical": "Automated market maker model",
+      "ids": [
+        23
+      ],
+      "aliases": [],
+      "rationale": "No other definition entry states the same AMM concept in a strict paraphrase."
+    },
+    {
+      "canonical": "Uniswap launch year",
+      "ids": [
+        24
+      ],
+      "aliases": [],
+      "rationale": "This founding-date claim is unique among the claims."
+    },
+    {
+      "canonical": "Bitcoin and Ethereum as exceptions to SEC securities classification",
+      "ids": [
+        27
+      ],
+      "aliases": [],
+      "rationale": "This claim about regulatory exceptions is distinct from the broader SEC-classification claim."
+    },
+    {
+      "canonical": "SEC classification of most cryptocurrencies as securities",
+      "ids": [
+        28
+      ],
+      "aliases": [],
+      "rationale": "This broad regulatory claim is not a strict paraphrase of any other entry."
+    },
+    {
+      "canonical": "Programmatic sales ruling in SEC v. Ripple",
+      "ids": [
+        29
+      ],
+      "aliases": [],
+      "rationale": "This legal result is distinct from the case reference itself."
+    },
+    {
+      "canonical": "SEC v. Ripple case (2023)",
+      "ids": [
+        30
+      ],
+      "aliases": [],
+      "rationale": "This reference to the case is not equivalent to the ruling outcome or any other reference."
+    }
+  ]
+}
