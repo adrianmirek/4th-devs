@@ -21,6 +21,7 @@ const OPENROUTER_ONLINE_SUFFIX = ":online";
 const VALID_OPENAI_SEARCH_CONTEXT_SIZES = new Set(["low", "medium", "high"]);
 const VALID_OPENROUTER_WEB_ENGINES = new Set(["native", "exa"]);
 const VALID_PROVIDERS = new Set(["openai", "openrouter"]);
+const HUB_BASE_URL = "https://hub.ag3nts.org";
 
 const [major] = process.versions.node.split(".").map(Number);
 if (major < MIN_NODE_VERSION) {
@@ -318,3 +319,4 @@ export const buildResponsesRequest = ({ model, tools, plugins, webSearch = false
 
 // Backward-compatible alias used in existing examples.
 export { OPENAI_API_KEY, OPENROUTER_API_KEY };
+export { HUB_BASE_URL };
